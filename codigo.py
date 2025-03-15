@@ -1,4 +1,5 @@
-a = 40
-b = 120
-print(a + b)
-sum= a + b 
+nombre = "Camila"
+apellido = "Dalto"
+
+saludo = "Hola "+ nombre + " " + apellido + " ¿Como estas?"
+print(saludo)
